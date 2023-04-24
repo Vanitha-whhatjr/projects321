@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+
+}
+h1:hover{
+    color:red;
+}
+a:link{
+    color:pink;
+}
+a:visited{
+    color:aquamarine;
+}
+a:active{
+    color:red;
+}
